@@ -4,19 +4,32 @@ body{
    font: Arial, sans-serif;
    font-family: 'Roboto Condensed', sans-serif;
    text-align: center;
+   background: darkgrey;
+}
+
+#bullets li {
+  list-style-type: none;
+  text-align: center;
 }
 
 li {
   color: purple;
 }
 
-
+#car {
+  color: lightblue;
+  background: darkgrey;
+}
+#hi {
+  color:darkblue;
+}
+}
 #bio {
-  background: yellow;
-  color: blue;
+
+  color: lightblue;
 }
 #More_About_Me{
-  background: yellow;
-  color:blue;
+
+  color:lightblue;
 
 }
